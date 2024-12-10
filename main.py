@@ -37,7 +37,7 @@ class App:
         tk.Label(frame, text="ORDENAMIENTO DE DATOS", font=("Comic Sans MS", 36, "bold"), bg="#F6E8DA", fg="#303750").pack(pady=70)         
 
 
-        gif_path = "logo.png"  
+        gif_path = "load.gif"  
         self.gif = Image.open(gif_path)
         self.gif_frames = []
         try:
