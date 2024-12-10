@@ -12,9 +12,9 @@ Capacidad de guardar resultados en diferentes formatos
 ## Instalación y Configuración
 
 ### Dependencias Necesarias
-pip install pandas
-pip install Pillow
-pip install numpy
+- pip install pandas
+- pip install Pillow
+- pip install numpy
 
 ### Proceso de Instalación
 1. Clonar el repositorio o descargar los archivos fuente
@@ -22,4 +22,4 @@ pip install numpy
 3. Instalar las dependencias requeridas
 4. Verificar la instalación ejecutando el archivo principal
 
-Gracias!!
+### Gracias!!
